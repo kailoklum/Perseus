@@ -1,0 +1,27 @@
+{
+    "name": "perseus",
+    "displayName": "Perseus",
+    "description": "Perseus, Hero of myth, Slayer of Medusa, husband to Andromeda.",
+    "version": "0.9.7",
+    "publisher": "kailoklum",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Perseus",
+                "uiTheme": "vs",
+                "path": "./themes/Perseus-Bordered-Italic-Light.json"
+            }
+        ]
+    },
+    "author": {
+        "name": "Kai Lok Lum",
+        "email": "kailoklum@gmail.com"
+    },
+    "license": "MIT"
+}
