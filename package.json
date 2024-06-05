@@ -1,14 +1,24 @@
 {
     "name": "perseus",
     "displayName": "Perseus",
-    "description": "Perseus, Hero of myth, Slayer of Medusa, husband to Andromeda.",
-    "version": "0.9.7",
+    "description": "Light Theme for VS Code inspired by Andromeda",
+    "version": "1.0.0",
+    "icon": "images/icon.png",
     "publisher": "kailoklum",
+    "repository": "https://github.com/kailoklum/Perseus",
     "engines": {
         "vscode": "^1.80.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords" : [
+        "Light",
+        "Theme",
+        "Greek",
+        "Andromeda",
+        "Perseus",
+        "Zeus"
     ],
     "contributes": {
         "themes": [

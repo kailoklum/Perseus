@@ -4,7 +4,7 @@
 # Perseus
 Inspired by the beautiful Andromeda theme for VS Code by Eliver Lara.
 
-![](images/Perseus.png)
+![](images/main.png)
 
 </div>
 
